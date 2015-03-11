@@ -1,0 +1,27 @@
+<config>
+	<modules>
+		<MobWeb_CategoryPlaceholderImages>
+			<version>0.1.0</version>
+		</MobWeb_CategoryPlaceholderImages>
+	</modules>
+	<global>
+		<models>
+			<categoryplaceholderimages>
+				<class>MobWeb_CategoryPlaceholderImages_Model</class>
+			</categoryplaceholderimages>
+		</models>
+		<helpers>
+			<categoryplaceholderimages>
+				<class>MobWeb_CategoryPlaceholderImages_Helper</class>
+			</categoryplaceholderimages>
+		</helpers>
+		<resources>
+			<categoryplaceholderimages_setup>
+				<setup>
+					<module>MobWeb_CategoryPlaceholderImages</module>
+					<class>Mage_Catalog_Model_Resource_Setup</class>
+				</setup>
+			</categoryplaceholderimages_setup>
+		</resources>
+	</global>
+</config>

@@ -1,0 +1,6 @@
+app/code/community/MobWeb/CategoryPlaceholderImages app/code/community/MobWeb/CategoryPlaceholderImages/
+
+app/etc/modules/MobWeb_CategoryPlaceholderImages.xml app/etc/modules/MobWeb_CategoryPlaceholderImages.xml
+
+# Clear the cache
+@shell   rm -rf $PROJECT/var/cache/* && echo "Magento Cache cleared"

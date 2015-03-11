@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<config>
+	<modules>
+		<MobWeb_CategoryPlaceholderImages>
+			<active>true</active>
+			<codePool>community</codePool>
+			<depends />
+		</MobWeb_CategoryPlaceholderImages>
+	</modules>
+</config>
